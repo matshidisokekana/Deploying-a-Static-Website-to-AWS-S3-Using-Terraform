@@ -1,8 +1,5 @@
 # Deploying-a-Static-Website-to-AWS-S3-Using-Terraform
-Absolutely! Here's a **complete README.md** draft you can copy and post directly to your GitHub project, fully following the structure and style of the Medium article you shared (but without GitHub Actions).
-It includes a clear introduction, setup explanation, code breakdown, and deployment steps — ready for your GitHub 💥
 
----
 
 # 🚀 Deploying a Static Website to AWS S3 Using Terraform
 
@@ -235,4 +232,3 @@ You can now easily update your HTML files and redeploy with Terraform to manage 
 
 ---
 
-⚡ **Let me know if you'd also like me to include Terraform diagram visuals or a badge for "Deploy with Terraform"!**
